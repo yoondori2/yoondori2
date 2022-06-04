@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCF4A3&height=300&section=header&text=DoYoon%20Kim&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9D71C&height=300&section=header&text=DoYoon%20Kim&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
 
 Hi there 👋 </br>
 반갑습니다🤗 백엔드 개발자를 꿈꾸는 김도윤이라고 합니다. </br>
