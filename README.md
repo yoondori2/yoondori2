@@ -7,7 +7,7 @@ Hi there 👋 </br>
 매일 한 발자국씩 전진하는 삶을 지향하여 매일 매일 기록하려 합니다.</br>
 
 
-<h2> 🛠 Tech Stack 🛠 </h2>
+<h2> 🛠 Tech Stacks 🛠 </h2>
  Techs that I've used at least once
 <h3>Backend</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
