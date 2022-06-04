@@ -27,7 +27,9 @@ Hi there 👋 </br>
 
 <h2>🌷 It's me 🌼</h2>
   <a href="https://turtle8760.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FAFAFA?style=flat&logo=FAFAFA&logoColor=white&link=https://turtle8760.tistory.com/"/></a>&nbsp
-  <a href="gustj3201@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=gustj3201@gmail.com"/></a>
+  <a href="gustj3201@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=gustj3201@gmail.com"/></a>&nbsp
+<img  src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gustj8760">
+
 <br>
 
 </div>
@@ -35,4 +37,4 @@ Hi there 👋 </br>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoondori2&count_private=true&include_all_commits=true&show_icons=true&theme=radical) 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gustj8760">
+
